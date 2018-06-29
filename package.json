@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watchAll"
+    "watch": "jest --watchAll",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
